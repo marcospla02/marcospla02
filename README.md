@@ -1,6 +1,5 @@
-<img alt="header" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" style=" width: 100em;
-    height: 20em;"  />    
-
+    
+[![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://www.linkedin.com/in/marcos-pla/)
 <h1 align="center">Hi 👋, I'm Marcos Pla</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 <img align="right" alt="coding" width="400" border-radius="20px" src="https://matlensilver.com/wp-content/uploads/2021/07/IT-Staffing.gif" />
