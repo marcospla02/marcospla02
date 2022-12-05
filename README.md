@@ -8,7 +8,7 @@
 
 - ☕ Work on the development of an e-commerce (fictitious, for Soy Henry's final project). [Tigger Coffee](https://tigercoffee.vercel.app)
 
-- 🕹 Videogame App, individual project by "Soy Hnery" [Videogame App](https://videogame-app-xi.vercel.app/)
+- 🕹 Videogame App, individual project by "Soy Henry" [Videogame App](https://videogame-app-xi.vercel.app/)
 
 - 📫 How to reach me **marcosprograma02@gmail.com**
 
